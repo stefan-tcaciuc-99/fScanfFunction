@@ -1,4 +1,4 @@
-//Stefan Tcaciuc R00192770
+//Stefan Tcaciuc 
 
 #include <stdio.h>
 #include <stdlib.h>
